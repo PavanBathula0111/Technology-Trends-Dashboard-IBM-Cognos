@@ -1,0 +1,36 @@
+Database,Count
+PostgreSQL,11502
+MySQL,8546
+SQLite,7013
+MongoDB,5922
+Microsoft SQL Server,5865
+Redis,5809
+MariaDB,3993
+Elasticsearch,3488
+Dynamodb,2264
+Oracle,1905
+Cloud Firestore,1463
+Firebase Realtime Database,1426
+BigQuery,1176
+Supabase,1122
+Cosmos DB,1070
+H2,883
+Microsoft Access,801
+Snowflake,619
+InfluxDB,595
+Cassandra,543
+Neo4J,445
+Databricks SQL,402
+Clickhouse,398
+Solr,387
+IBM DB2,325
+DuckDB,305
+Couch DB,263
+Cockroachdb,247
+Firebird,205
+Couchbase,166
+Presto,124
+EventStoreDB,70
+RavenDB,68
+Datomic,57
+TiDB,43
